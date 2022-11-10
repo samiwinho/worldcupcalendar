@@ -29,9 +29,9 @@ This project was developed with the following technologies:
 - JavaScript
 - Git and Github
 
-## 💻 Projeto
+## 💻 Projet
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+The World Cup Calendar is a project that shows the games of the 2022 World Cup.
 
 ## 🔖 Layout
 
