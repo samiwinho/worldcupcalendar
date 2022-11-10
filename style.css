@@ -48,6 +48,15 @@ header {
   text-align: center;
 }
 
+header img {
+  height: 150px;
+}
+
+h1 {
+  color: #e1e1e6;
+  text-transform: uppercase;
+}
+
 #cards {
   display: flex;
   flex-direction: column;
@@ -128,6 +137,14 @@ header {
 .card {
   opacity: 0;
   animation: appear 0.2s forwards;
+}
+
+h5 {
+  font-weight: lighter;
+  margin-top: 64px;
+  margin-bottom: 64px;
+  color: #e1e1e6;
+  text-align: center;
 }
 
 @keyframes appear {
