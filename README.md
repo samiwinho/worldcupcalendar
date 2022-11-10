@@ -1,7 +1,7 @@
 <h1 align="center"> World Cup 2022 </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Project developed in a week in the Rocketseat course.
 </p>
 
 <p align="center">
