@@ -25,7 +25,7 @@ Project developed in a week in the Rocketseat course.
 
 This project was developed with the following technologies:
 
-- HTML and CSS
+- HTML5 and CSS3
 - JavaScript
 - Git and Github
 
